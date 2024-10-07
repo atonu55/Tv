@@ -20,8 +20,6 @@ http://kobratech.info:2052/play/live.php?mac=00:1A:79:ab:2c:fb&stream=117318&ext
 https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 group-title="Indian bangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png",Zee bangla hd
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=4237600.m3u8
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=2137600.m3u8
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1 group-title="Indian bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IBVelu-4mEpvNEG0Zgt9y2C4hHdNDko_YA&s",Zee bangla cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=562400.m3u8
 #EXTINF:-1 group-title="Indian bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3fHGnFjroZ1g1AobpU-8sAVyDrY0turanw&s",Sangeet bangla
@@ -58,5 +56,13 @@ https://s@db7g5t2s3y0c9.cloudfront.net:443/out/v1/1c7f5a41c9934f24916b7ce5d1ea38
 http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=6154&deviceMac=00:1A:79:51:31:21
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgQUKbLOm883dSlutrQSL8YoOc3I1xGahEQVQd_zL77B5vXI5-PX5OIWC&s=10",Ekattor Tv
 http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1 group-title="indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jdMGZk67OtUCzNkUUUEMXQRwiQEG5cRMp90IFT6KwQNG69m0Z8dpTw0&s=10",Peace Tv bangla
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jdMGZk67OtUCzNkUUUEMXQRwiQEG5cRMp90IFT6KwQNG69m0Z8dpTw0&s=10",Peace Tv bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7xhB7-dXIBPe2x-87XvJ96a1BW4UyY8ZnfQ&usqp=CAU ",DBC News
+https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+#EXTINF:-1 group-title="Indian channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmw4dmfpAmlLpVQWVzW3_rA-2Rrep81lJIXqwwLhneKKj9F4R43xnG2K95&s=10",Tv 9 Bangla
+https://ythls-v3.onrender.com/channel/UCHCR4UFsGwd_VcDa0-a4haw.m3u8
+#EXTINF:-1 group-title="Indian channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qUuSmC90CGfMYW2naH4j4e1bRn8K2wsR5g&usqp=CAU",Republic Bangla
+https://ythls-v3.onrender.com/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
+
+
