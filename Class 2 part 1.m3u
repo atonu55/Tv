@@ -6,9 +6,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 #EXTINF:-1 group-title="Web Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png",Channel 24
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
-#EXTINF:-1 group-title="Web Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRHoKIPp-l6QDLQcpMx6zojhsxT_BJhNMGV28kYYGJJbfC_FE_W_jniL9&s=10",Sanjeet bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
-#EXTINF:-1 group-title="Jago BD" tvg-logo=",https://upload.wikimedia.org/wikipedia/bn/5/59/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Massrangga Tv
+#EXTINF:-1 group-title="Jago BD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83iPJ0IaFeEYgSgY5Po_G7xClj5wTUaLmE41rteke9_bsqqMX4lzm2Yh4&s=10",Massrangga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Xtream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpGBNjSRuDOzB32ZO_Kha_EmTgknWli-Dpg&s",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
@@ -40,4 +38,25 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/Mrlivetv/FREDFLIX-HOST-CHANNEL/main/Discovery.m3u8
 #EXTINF:-1 group-title="Indian bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_kEGgb_6s5YspQdHoa8qDSaL6kTg0FftoA&s",Animal Playnet
 https://raw.githubusercontent.com/Ferdos-Live-Tv/My-Host-Tv-Channel-/main/Animal%20planet.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png",Ten Sports
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 group-title="indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkygJiW7UmSzVB63h8f4nosh66egVsmnMVlA3Js7DCwLXHuurrXx853gf&s=10",9xm Jalwa
+http://vo01.mohdtv.com:8880/live/voby0764/8hldv2bu/1958.ts
+#EXTINF:-1 group-title="indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Cr9k2gUK3USsl1ubejEx0HC1ZavKaXcU9NJ92OxY_mUNG4BfL-tM1Q&s=10",Bollywood Hd
+http://vo01.mohdtv.com:8880/live/voby0764/8hldv2bu/1939.ts
+#EXTINF:-1 group-title="indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGbvQPLd6HfgMl9DclBXoz_ZRtR18EYi6kzabkcbZSLt_byLOQhQoQ984&s=10",India news
+http://vo01.mohdtv.com:8880/live/voby0764/8hldv2bu/1886.ts
+#EXTINF:-1 group-title="indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbA55igdcM6Y1Bv1eCDP9BKehAwpF67ooJRGZIoeUDWSL-oBojBoc9-vOu&s=10 ",Zee bollywood 
+http://vo01.mohdtv.com:8880/live/voby0764/8hldv2bu/55212.ts
+#EXTINF:-1 group-title="indian Channel" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2
+http://vo01.mohdtv.com:8880/live/voby0764/8hldv2bu/55282.ts
+#EXTINF:-1 group-title="indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFzczMCI8J8HTU7WTnjIZ2j-GSKxsu_KvdEw&usqp=CAU",Super Hungama
+http://103.124.251.164:28015/play/a02n/index.m3u8
+#EXTINF:-1 group-title="indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MRul_NPw8nFd9rOKJ5Ita4mIz-tPqhVEw7lWWFTs0UomIRyh0fHLSf4&s=10",GXR World
+https://s@db7g5t2s3y0c9.cloudfront.net:443/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index_7.m3u8
+#EXTINF:-1 group-title="indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",Colors Cineplex 
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=6154&deviceMac=00:1A:79:51:31:21
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgQUKbLOm883dSlutrQSL8YoOc3I1xGahEQVQd_zL77B5vXI5-PX5OIWC&s=10",Ekattor Tv
+http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF:-1 group-title="indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jdMGZk67OtUCzNkUUUEMXQRwiQEG5cRMp90IFT6KwQNG69m0Z8dpTw0&s=10",Peace Tv bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
