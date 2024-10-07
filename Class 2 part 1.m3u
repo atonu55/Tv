@@ -20,5 +20,24 @@ http://xsmarters.top:8080/live/0966717777/0966717777/206280.ts
 http://kobratech.info:2052/play/live.php?mac=00:1A:79:ab:2c:fb&stream=117318&extension=ts
 #EXTINF:-1 group-title="Youtube Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjFmdP8u21tQaCdZuk7om29AscJDXFpARAVjjdjJjnfzSy6Ccg6s5k6fI&s=10",Channel 24
 https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
-
+#EXTINF:-1 group-title="Indian bangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png",Zee bangla hd
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=4237600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=2137600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=1087600.m3u8
+#EXTINF:-1 group-title="Indian bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IBVelu-4mEpvNEG0Zgt9y2C4hHdNDko_YA&s",Zee bangla cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=562400.m3u8
+#EXTINF:-1 group-title="Indian bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3fHGnFjroZ1g1AobpU-8sAVyDrY0turanw&s",Sangeet bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 group-title="Indian bangla" tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png",Mon tv
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 group-title="Indian bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXB5jGiCVdCJlTmq-hrmRuXd8tAZKn0W38xuNlfcM4FbM517oRy20RCUM&s=10",Amar bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 group-title="Indian bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShACTOi8r61Gz2kX2NmYojt6-es24dIcKNkQ&s" ,Amar digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 group-title="Indian bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFjJUSe3rPmRzCq75WjOaQ_dTu_TXbuvRrdg&s",Rongeen tv
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCn1oC_OYD4ID9LoOT1Q72jfE5mPJA2XDQPQ&s",Discovery (Bangla)
+https://raw.githubusercontent.com/Mrlivetv/FREDFLIX-HOST-CHANNEL/main/Discovery.m3u8
+#EXTINF:-1 group-title="Indian bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_kEGgb_6s5YspQdHoa8qDSaL6kTg0FftoA&s",Animal Playnet
+https://raw.githubusercontent.com/Ferdos-Live-Tv/My-Host-Tv-Channel-/main/Animal%20planet.m3u8
 
